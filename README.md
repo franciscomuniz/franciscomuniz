@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything with programming. But would love to work in game programming. 
 - 🌱 I’m currently learning as msuch as i can about programming. 
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 Can reach me at Franciscomuniz1689@gmail.com
 
 <!---
 franciscomuniz/franciscomuniz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
